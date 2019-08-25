@@ -1,4 +1,6 @@
 **bold** *italic* _italic_.  
+***_bold and italic_***  
+
 rule #1
 ___  
 rule #2  
